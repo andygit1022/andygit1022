@@ -49,6 +49,7 @@
 - YOLOv11 기반 시각장애인 보행 위험 예측 시스템 개발 중
 
 ### [CILAB-SEMINAR](https://github.com/andygit1022/CILAB-SEMINAR)
+- Project and Paper Review
 
 <br/>
 <br/>
