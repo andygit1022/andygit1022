@@ -7,6 +7,9 @@
 ## :mortar_board: Education  
 ### [단국대학교](https://www.dankook.ac.kr/) 모바일시스템공학과 (2020.03 - 2025.04)  
 
+<br/>
+<br/>
+
 ## :clipboard: Experience  
 ### [CILAB (Communication & Intelligence Lab)](https://sites.google.com/view/cilab-dku) 학부연구생 (2024.09 - 2025.03)  
 ### [LG AIMERS 6기](https://www.lgaimers.com/) 참가 (2024.12 - 2025.01)  
@@ -32,18 +35,20 @@
 <br/>
 
 ## 🖳 Project  
-### AI-Based Mental Health Care Platform  
+### [AI-Based Mental Health Care Platform](https://github.com/andygit1022/Project-Mental)  
 - Loliness, PHQ-9, P4 예측 모델 개발
 
-### Dementia Prediction Using LLM  
+### [Dementia Prediction Using LLM](https://github.com/andygit1022/Mental-2025)  
 - LLaMA, GPT 기반 임상 노트 분류 파이프라인 구축
 - Hierarchical Attention and Evaluation of Context Quality
 
-### Pregnancy Prediction for Infertility Patients  
+### [Pregnancy Prediction for Infertility Patients](https://github.com/andygit1022/Pregnancy-AI)  
 - 임상 데이터를 활용한 난임환자 임신 성공 예측  
 
-### AI-Based Collision Risk Prediction System  
-- YOLOv11 기반 시각장애인 보행 위험 예측 시스템 개발 중  
+### [AI-Based Collision Risk Prediction System](https://github.com/andygit1022/EYE_PATH)  
+- YOLOv11 기반 시각장애인 보행 위험 예측 시스템 개발 중
+
+### [CILAB-SEMINAR](https://github.com/andygit1022/CILAB-SEMINAR)
 
 <br/>
 <br/>
@@ -51,4 +56,3 @@
 ## 💻 Programming Skills  
 - **Languages:** Python, C/C++, Java  
 - **Frameworks & Tools:** Pandas, Numpy, Tensorflow, Scikit-learn, Matplotlib, Langchain  
-
