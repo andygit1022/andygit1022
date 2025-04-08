@@ -6,9 +6,6 @@
 </a>
 
 
-<br/>
-<br/>
-
 ## :mortar_board: Education  
 ### [단국대학교](https://www.dankook.ac.kr/) 모바일시스템공학과 (2020.03 - 2025)
 
