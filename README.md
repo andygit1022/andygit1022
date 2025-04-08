@@ -56,6 +56,19 @@
 <br/>
 <br/>
 
-## 💻 Programming Skills  
-- **Languages:** Python, C/C++, Java  
-- **Frameworks & Tools:** Pandas, Numpy, Tensorflow, Scikit-learn, Matplotlib, Langchain  
+### 💻 Programming Skills
+
+**Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/>
+
+**ML / Data Tools**  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=ffffff"/>
+
