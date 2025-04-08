@@ -10,7 +10,6 @@
 ### [단국대학교](https://www.dankook.ac.kr/) 모바일시스템공학과 (2020.03 - 2025)
 
 <br/>
-<br/>
 
 ## :clipboard: Experience  
 ### [CILAB (Communication & Intelligence Lab)](https://sites.google.com/view/cilab-dku) 학부연구생 (2024.09 - 2025.03)  
@@ -21,19 +20,16 @@
 ### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - )
 
 <br/>
-<br/>
 
 ## 🏆 Awards  
 ### [AI 아이디어 공모전 대상 수상 (ICAN 프로그램, 과학기술정보통신부 지정)](https://dkuican.dankook.ac.kr/) (2024.12)  
 
-<br/>
 <br/>
 
 ## 🧠 Research / Conference  
 ### [AAIC 2025 (Alzheimer’s Association International Conference)](https://aaic.alz.org/)  
 - 논문: *"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"*
 
-<br/>
 <br/>
 
 ## 🖳 Project  
@@ -53,7 +49,6 @@
 ### [CILAB-SEMINAR](https://github.com/andygit1022/CILAB-SEMINAR)
 - Project and Paper Review
 
-<br/>
 <br/>
 
 ### 💻 Programming Skills
