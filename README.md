@@ -12,11 +12,11 @@
 
 ## :clipboard: Experience  
 ### [CILAB (Communication & Intelligence Lab)](https://sites.google.com/view/cilab-dku) 학부연구생 (2024.09 - 2025.03)  
-### [LG AIMERS 6기](https://www.lgaimers.com/) 참가 (2024.12 - 2025.01)  
+### [LG AIMERS 6기](https://www.lgaimers.com/) 
 ### [AI 멘탈헬스케어 플랫폼 연구과제] 단국대학교·보건복지부 지원 (2024.09 - 2024.11)  
 ### [LLM 기반 치매 예측 연구] 단국대학교병원 지원 (2024.10 - 2025.03)  
 ### [LG AIMERS 해커톤] 난임환자 임신 예측 AI 개발 (2025.02 - 2025.03)  
-### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - 2025.04 진행 중)
+### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - )
 
 <br/>
 <br/>
