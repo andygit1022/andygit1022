@@ -1,6 +1,11 @@
 ## 안녕하세요 임석범입니다. 👋  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seokbeom%20Lim&fontSize=90)
 
+<a href="mailto:s.yxun20@gmail.com"> 
+  <img src="https://img.shields.io/badge/andylim1022@naver.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:andylim1022@naver.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
+
+
 <br/>
 <br/>
 
