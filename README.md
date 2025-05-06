@@ -31,7 +31,7 @@
 - 논문: *"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"*
 
 
-### [KCC 2025 학술대회]()  
+### [KCC 2025 학술대회 논문]()  
 - 2025년 5월 말 심사 예정 
 
 <br/>
