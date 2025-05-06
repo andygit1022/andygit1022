@@ -30,6 +30,10 @@
 ### [AAIC 2025 (Alzheimer’s Association International Conference)](https://aaic.alz.org/)  
 - 논문: *"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"*
 
+
+### [KCC 2025 학술대회]()  
+- 2025년 6월 심사 
+
 <br/>
 
 ## 🖳 Project  
