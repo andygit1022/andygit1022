@@ -31,8 +31,8 @@
 - 논문: *"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"*
 
 
-### [KCC 2025 학술대회 논문]()  
-- 2025년 5월 말 심사 예정 
+### [한국컴퓨터종합학술대회 (KCC) 2025]()  
+- 논문: 충돌 가능 영역 기반 시각 장애인 보행 충돌 위험 예측 모델
 
 <br/>
 
