@@ -31,7 +31,7 @@
 - 논문: *"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"*
 
 
-### [한국컴퓨터종합학술대회 (KCC) 2025](https://github.com/EYEPATH_EMBEDDED)  
+### [한국컴퓨터종합학술대회 (KCC) 2025](https://github.com/EYEPATH-EMBEDDED)  
 - 논문: 충돌 가능 영역 기반 시각 장애인 보행 충돌 위험 예측 모델
 
 <br/>
@@ -47,7 +47,7 @@
 ### [Pregnancy Prediction for Infertility Patients](https://github.com/andygit1022/Pregnancy-AI)  
 - 임상 데이터를 활용한 난임환자 임신 성공 예측  
 
-### [AI-Based Collision Risk Prediction System](https://github.com/EYEPATH_EMBEDDED)  
+### [AI-Based Collision Risk Prediction System](https://github.com/EYEPATH-EMBEDDED)  
 - YOLOv11 기반 시각장애인 보행 위험 예측 시스템 개발 중
 
 ### [CILAB-SEMINAR](https://github.com/andygit1022/CILAB-SEMINAR)
