@@ -6,7 +6,7 @@
 </a>
 
 <a href="mailto:atxandylim1022@gmail.com"> 
-  <img src="https://img.shields.io/badge/andylim1022@naver.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:atxandylim1022@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  <img src="https://img.shields.io/badge/atxandylim1022@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:atxandylim1022@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 </a>
 
 
