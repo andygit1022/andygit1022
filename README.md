@@ -52,7 +52,7 @@
 - 임상 데이터를 활용한 난임환자 임신 성공 예측  
 
 ### [AI-Based Collision Risk Prediction System](https://github.com/EYEPATH-EMBEDDED)  
-- YOLOv11 기반 시각장애인 보행 위험 예측 시스템 개발 중
+- YOLOv11 기반 시각장애인 보행 위험 예측 시스템 
 
 ### [CILAB-SEMINAR](https://github.com/andygit1022/CILAB-SEMINAR)
 - Project and Paper Review
