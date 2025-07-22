@@ -21,7 +21,8 @@
 ### [AI 멘탈헬스케어 플랫폼 연구과제] 단국대학교·보건복지부 지원 (2024.09 - 2024.11)  
 ### [LLM 기반 AD(Alzheimer's disease) 예측 연구과제] 단국대학교병원 지원 (2024.10 - 2025.03)  
 ### [LG AIMERS 해커톤] 난임환자 임신 예측 AI 개발 (2025.02 - 2025.03)  
-### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - )
+### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - 2025.06)
+### [2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth (2025.07 - )
 
 <br/>
 
@@ -32,15 +33,21 @@
 
 ## 🧠 Research / Conference  
 ### [AAIC 2025 (Alzheimer’s Association International Conference)](https://aaic.alz.org/)  
-- 논문: *"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"*
+- 논문: **"Dementia Prediction Using Hierarchical Attention and Evaluation of Context Quality"**
 
 
 ### [한국컴퓨터종합학술대회 (KCC) 2025](https://github.com/EYEPATH-EMBEDDED)  
-- 논문: 충돌 가능 영역 기반 시각 장애인 보행 충돌 위험 예측 모델
+- 논문: **"충돌 가능 영역 기반 시각 장애인 보행 충돌 위험 예측 모델"**
 
 <br/>
 
 ## 🖳 Project  
+
+### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth](https://github.com/andygit1022/KITTY)
+- AI 기반 유해성 탐지, 자동 대체, 동화 생성 AI agent 개발
+- 단국대학교 대표
+- 예선 8위(58 개교중)
+
 ### [AI-Based Mental Health Care Platform](https://github.com/andygit1022/Project-Mental)  
 - Loliness, PHQ-9, P4 예측 모델 개발
 
