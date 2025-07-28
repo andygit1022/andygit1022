@@ -22,6 +22,7 @@
 ### [LG AIMERS 해커톤] 난임환자 임신 예측 AI 개발 (2025.02 - 2025.03)  
 ### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - 2025.06)
 ### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth (2025.07 - )](https://dacon.io/competitions/official/236474/codeshare/12593)
+### [[2025 Open Source Software Contest] 사냥단(4-Nyang-DAN)팀 (2025.07 - )](https://github.com/4-nyang-dan)
 
 <br/>
 
@@ -41,6 +42,12 @@
 <br/>
 
 ## 🖳 Project  
+
+### [TreeLLM](https://github.com/Tree-LLM)  
+- 트리 기반 논문/보고서 평가 및 수정 에이전트 개발
+
+### [사냥단](https://github.com/4-nyang-dan)  
+- 모니터링 어시스턴트 에이전트 개발
 
 ### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth](https://github.com/andygit1022/KITTY)
 - AI 기반 유해성 탐지, 자동 대체, 동화 생성 AI agent 개발
