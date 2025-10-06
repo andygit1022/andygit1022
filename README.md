@@ -19,8 +19,6 @@
 ### [CILAB (Communication & Intelligence Lab)](https://sites.google.com/view/cilab-dku) 학부연구생 (2024.09 - 2025.03)  
 ### [AI 멘탈헬스케어 플랫폼 연구과제] 단국대학교·보건복지부 지원 (2024.09 - 2024.11)  
 ### [LLM 기반 AD(Alzheimer's disease) 예측 연구과제] 단국대학교병원 지원 (2024.10 - 2025.03)  
-### [LG AIMERS 해커톤] 난임환자 임신 예측 AI 개발 (2025.02 - 2025.03)  
-### [AI 시각장애인 보행위험 예측 시스템] 개발 (2025.03 - 2025.06)
 ### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth (2025.07 - )](https://dacon.io/competitions/official/236474/codeshare/12593)
 ### [[2025 Open Source Software Contest] 사냥단(4-Nyang-DAN)팀 (2025.07 - )](https://github.com/4-nyang-dan)
 
@@ -28,6 +26,8 @@
 
 ## 🏆 Awards  
 ### [AI 아이디어 공모전 대상 수상 (ICAN 프로그램, 과학기술정보통신부 지정)](https://dkuican.dankook.ac.kr/) (2024.12)  
+
+### [SW중심대학 디지털 경진대회 SW부문 수상](https://dacon.io/competitions/official/236474/overview/description) (2025.07)  
 
 <br/>
 
@@ -43,19 +43,16 @@
 
 ## 🖳 Project  
 
-### [TreeLLM](https://github.com/Tree-LLM)  
-- 트리 기반 논문/보고서 평가 및 수정 에이전트 개발
-
 ### [사냥단](https://github.com/4-nyang-dan)  
 - 모니터링 어시스턴트 에이전트 개발
 
 ### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth](https://github.com/andygit1022/KITTY)
 - AI 기반 유해성 탐지, 자동 대체, 동화 생성 AI agent 개발
 - 단국대학교 대표
-- 예선 8위(58 개교중)
 
 ### [AI-Based Mental Health Care Platform](https://github.com/andygit1022/Project-Mental)  
 - Loliness, PHQ-9, P4 예측 모델 개발
+- 시계열 데이터
 
 ### [Dementia Prediction Using LLM](https://github.com/andygit1022/Mental-2025)  
 - LLaMA, GPT 기반 임상 노트 분류 파이프라인 구축
