@@ -19,8 +19,8 @@
 ### [CILAB (Communication & Intelligence Lab)](https://sites.google.com/view/cilab-dku) 학부연구생 (2024.09 - 2025.03)  
 ### [AI 멘탈헬스케어 플랫폼 연구과제] 단국대학교·보건복지부 지원 (2024.09 - 2024.11)  
 ### [LLM 기반 AD(Alzheimer's disease) 예측 연구과제] 단국대학교병원 지원 (2024.10 - 2025.03)  
-### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth (2025.07 - )](https://dacon.io/competitions/official/236474/codeshare/12593)
-### [[2025 Open Source Software Contest] 사냥단(4-Nyang-DAN)팀 (2025.07 - )](https://github.com/4-nyang-dan)
+### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth (2025.07 - 2025.09)](https://dacon.io/competitions/official/236474/codeshare/12593)
+### [[2025 Open Source Software Contest] 사냥단(4-Nyang-DAN)팀 (2025.07 - 2025.11)](https://github.com/4-nyang-dan)
 
 <br/>
 
@@ -44,7 +44,8 @@
 ## 🖳 Project  
 
 ### [사냥단](https://github.com/4-nyang-dan)  
-- 모니터링 어시스턴트 에이전트 개발
+- 화면 맥락기반 목표 수행 AI 에이전트
+- Open Source 
 
 ### [[2025 SW중심대학 디지털 경진대회 SW부문] KITTY : Keep It Talk-safe To Youth](https://github.com/andygit1022/KITTY)
 - AI 기반 유해성 탐지, 자동 대체, 동화 생성 AI agent 개발
